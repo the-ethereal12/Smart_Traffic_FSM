@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_traffic_controller_4junction_with_echallan_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_traffic_controller_4junction_with_echallan" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="197"></NameColumnWidth>
+      <ValueColumnWidth column_width="88"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/emergency" type="logic">
+      <obj_property name="ElementShortName">emergency</obj_property>
+      <obj_property name="ObjectShortName">emergency</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/night_mode" type="logic">
+      <obj_property name="ElementShortName">night_mode</obj_property>
+      <obj_property name="ObjectShortName">night_mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/density_N" type="logic">
+      <obj_property name="ElementShortName">density_N</obj_property>
+      <obj_property name="ObjectShortName">density_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/density_E" type="logic">
+      <obj_property name="ElementShortName">density_E</obj_property>
+      <obj_property name="ObjectShortName">density_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/density_S" type="logic">
+      <obj_property name="ElementShortName">density_S</obj_property>
+      <obj_property name="ObjectShortName">density_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/density_W" type="logic">
+      <obj_property name="ElementShortName">density_W</obj_property>
+      <obj_property name="ObjectShortName">density_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/ped_request" type="logic">
+      <obj_property name="ElementShortName">ped_request</obj_property>
+      <obj_property name="ObjectShortName">ped_request</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/vehicle_N" type="logic">
+      <obj_property name="ElementShortName">vehicle_N</obj_property>
+      <obj_property name="ObjectShortName">vehicle_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/vehicle_E" type="logic">
+      <obj_property name="ElementShortName">vehicle_E</obj_property>
+      <obj_property name="ObjectShortName">vehicle_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/vehicle_S" type="logic">
+      <obj_property name="ElementShortName">vehicle_S</obj_property>
+      <obj_property name="ObjectShortName">vehicle_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/vehicle_W" type="logic">
+      <obj_property name="ElementShortName">vehicle_W</obj_property>
+      <obj_property name="ObjectShortName">vehicle_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/red_N" type="logic">
+      <obj_property name="ElementShortName">red_N</obj_property>
+      <obj_property name="ObjectShortName">red_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/yellow_N" type="logic">
+      <obj_property name="ElementShortName">yellow_N</obj_property>
+      <obj_property name="ObjectShortName">yellow_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/green_N" type="logic">
+      <obj_property name="ElementShortName">green_N</obj_property>
+      <obj_property name="ObjectShortName">green_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/red_E" type="logic">
+      <obj_property name="ElementShortName">red_E</obj_property>
+      <obj_property name="ObjectShortName">red_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/yellow_E" type="logic">
+      <obj_property name="ElementShortName">yellow_E</obj_property>
+      <obj_property name="ObjectShortName">yellow_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/green_E" type="logic">
+      <obj_property name="ElementShortName">green_E</obj_property>
+      <obj_property name="ObjectShortName">green_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/red_S" type="logic">
+      <obj_property name="ElementShortName">red_S</obj_property>
+      <obj_property name="ObjectShortName">red_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/yellow_S" type="logic">
+      <obj_property name="ElementShortName">yellow_S</obj_property>
+      <obj_property name="ObjectShortName">yellow_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/green_S" type="logic">
+      <obj_property name="ElementShortName">green_S</obj_property>
+      <obj_property name="ObjectShortName">green_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/red_W" type="logic">
+      <obj_property name="ElementShortName">red_W</obj_property>
+      <obj_property name="ObjectShortName">red_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/yellow_W" type="logic">
+      <obj_property name="ElementShortName">yellow_W</obj_property>
+      <obj_property name="ObjectShortName">yellow_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/green_W" type="logic">
+      <obj_property name="ElementShortName">green_W</obj_property>
+      <obj_property name="ObjectShortName">green_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/ped_walk" type="logic">
+      <obj_property name="ElementShortName">ped_walk</obj_property>
+      <obj_property name="ObjectShortName">ped_walk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/countdown" type="array">
+      <obj_property name="ElementShortName">countdown[3:0]</obj_property>
+      <obj_property name="ObjectShortName">countdown[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/challan_N" type="logic">
+      <obj_property name="ElementShortName">challan_N</obj_property>
+      <obj_property name="ObjectShortName">challan_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/challan_E" type="logic">
+      <obj_property name="ElementShortName">challan_E</obj_property>
+      <obj_property name="ObjectShortName">challan_E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/challan_S" type="logic">
+      <obj_property name="ElementShortName">challan_S</obj_property>
+      <obj_property name="ObjectShortName">challan_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_traffic_controller_4junction_with_echallan/challan_W" type="logic">
+      <obj_property name="ElementShortName">challan_W</obj_property>
+      <obj_property name="ObjectShortName">challan_W</obj_property>
+   </wvobject>
+</wave_config>
