@@ -1086,10 +1086,9 @@ This project is developed for **educational and academic purposes**.
 
 ---
 
-# 🔗 Repository
+# ✨ Final Note
 
-**GitHub Repository:**
-[https://github.com/the-ethereal12/Smart_Traffic_FSM](https://github.com/the-ethereal12/Smart_Traffic_FSM)
+Smart Traffic FSM demonstrates how a structured Finite State Machine can be used to model and control a complex real-world system while keeping the design modular, testable, and suitable for future hardware implementation.
 
 ```
 
